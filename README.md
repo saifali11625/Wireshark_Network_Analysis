@@ -18,7 +18,11 @@ To analyze network traffic and identify suspicious activities using Wireshark.
 - Possible malicious traffic pattern
 
 ## 📷 Screenshots
-(Add screenshots here)
+
+![Packet Capture](IMG_XXXX.png)
+![DNS Analysis](IMG_XXXX.png)
+![TCP Traffic](IMG_XXXX.png)
+![Network Analysis](IMG_XXXX.png)
 
 ## 📚 Conclusion
 This project demonstrates packet analysis and network monitoring skills required for SOC analysts.
